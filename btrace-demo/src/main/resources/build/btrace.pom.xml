@@ -1,0 +1,17 @@
+
+<!-- btrace工具JAVA程序追踪 -->
+<dependency>
+	<groupId>com.sun.tools.btrace</groupId>
+	<artifactId>btrace-agent</artifactId>
+	<version>1.2.3</version>
+</dependency>
+<dependency>
+	<groupId>com.sun.tools.btrace</groupId>
+	<artifactId>btrace-boot</artifactId>
+	<version>1.2.3</version>
+</dependency>
+<dependency>
+	<groupId>com.sun.tools.btrace</groupId>
+	<artifactId>btrace-client</artifactId>
+	<version>1.2.3</version>
+</dependency>
